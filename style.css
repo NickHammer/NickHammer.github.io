@@ -90,15 +90,15 @@ section:last-child {
 * =Main Info
 ***********************************/
 
-/*img.avatar {
+img.avatar {
   width: 130px;
-}*/
+}
 
-img.cap {
+/*img.cap {
   display: flex;
   width: 150px;
   height: 100px;
-}
+}*/
 
 .my-name {
   font-size: 48px;
