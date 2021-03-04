@@ -95,8 +95,9 @@ img.avatar {
 }
 
 img.cap {
-  width: 596px;
-  height: 415px;
+  display: flex;
+  width: 150px;
+  height: 100px;
 }
 
 .my-name {
