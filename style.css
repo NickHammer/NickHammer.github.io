@@ -90,9 +90,9 @@ section:last-child {
 * =Main Info
 ***********************************/
 
-img.avatar {
+/*img.avatar {
   width: 130px;
-}
+}*/
 
 img.cap {
   display: flex;
